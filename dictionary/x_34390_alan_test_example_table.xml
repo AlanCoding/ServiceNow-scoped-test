@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="example table" max_length="40" name="x_34390_alan_test_example_table" type="collection">
+        <element display="true" label="example column" max_length="40" name="example_column" type="integer"/>
+    </element>
+</database>
